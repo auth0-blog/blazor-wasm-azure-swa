@@ -3,6 +3,8 @@ This repository contains a basic Blazor WebAssembly application with Auth0 authe
 It is used in the following article: [Support Auth0 in Azure Static Web Apps for Blazor WebAssembly Apps](https://auth0.com/blog/support-auth0-in-azure-static-web-apps-for-blazor-wasm/).
 
 ## To run the application:
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fauth0-blog%2Fblazor-wasm-azure-swa.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fauth0-blog%2Fblazor-wasm-azure-swa?ref=badge_shield)
+
 
 Clone the repo: `git clone https://github.com/auth0-blog/blazor-wasm-azure-swa.git`
 
@@ -21,3 +23,7 @@ To run the *Blazor WebAssembly* application locally:
 - An [Azure](https://azure.microsoft.com/) account to run the app in the cloud
 - An [Auth0 account](https://auth0.com/signup) to authenticate users in the cloud
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fauth0-blog%2Fblazor-wasm-azure-swa.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fauth0-blog%2Fblazor-wasm-azure-swa?ref=badge_large)
